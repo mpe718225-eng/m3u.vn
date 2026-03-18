@@ -19,9 +19,9 @@ https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist_b2500000.m3u8
 
 https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-id="VTV6 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6_HD-0.png",VTV6 HD
+#EXTINF:-1  tvg-id="VTV10" group-title="VTV" tvg-logo="https://m.tv360.vn/tv/vtv-can-tho?ch=98&c=0&g=1&sect=LIVE&col=1&page=home_live&tab=0.VTV10_0.png"VTV10
 
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://m.tv360.vn/tv/vtv-can-tho?ch=98&c=0&g=1&sect=LIVE&col=1&page=home_live&tab=0
 
 #EXTINF:-1  tvg-id="VTV7 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7_HD-0.png",VTV7 HD
 
